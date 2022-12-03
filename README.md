@@ -1,8 +1,12 @@
 # First-Data-Analysis-Repo
+
+
+
+
 FINANCIAL DATA ANALYSIS
 .
 #PROJECT OBJECT:PROBLEM STATEMENT
-
+Finding Insighths And Analyzing the Data
 
 
 .
